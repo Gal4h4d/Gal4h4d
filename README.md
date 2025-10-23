@@ -6,7 +6,6 @@ Actualmente aprendiendo: Django, Python y Ciberseguridad
 
 ## 🔧 Mis proyectos
 - [Web de noticias en Django](https://github.com/Gal4h4d/Pagina_web)
--
 - [Asistente virtual Kiora](https://github.com/Gal4h4d/Miku-IA)
 
 ## 🌱 Contacto

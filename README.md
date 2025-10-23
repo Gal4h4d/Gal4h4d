@@ -10,4 +10,4 @@ Actualmente aprendiendo: Django, Python y Ciberseguridad
 
 ## 🌱 Contacto
 📧 [miemail@gmail.com](juanditamp@gmail.com)  
-💼 [LinkedIn](www.linkedin.com/in/juan-david-miranda-pelaez-09943a286/?skipRedirect=true)
+

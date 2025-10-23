@@ -1,31 +1,31 @@
 
-<h1 align="center">Hola, soy <span style="color:#58a6ff">Gal4h4d</span> 👋</h1>
+<h1 align="center">Hola, soy <span style="color:#58a6ff">Gal4h4d</span> </h1>
 
 <p align="center">
- Desarrollador en formación | 🎮 Apasionado por los juegos y la IA | ⚙️ Explorando el código y la creatividad
+ Desarrollador en formación |  Apasionado por los juegos y la IA |  Explorando el código y la creatividad
 </p>
 
 ---
 
-### 🧠 Sobre mí
+###  Sobre mí
 
-- 🔭 Actualmente aprendiendo **Python, Django y Unity**
-- 🌱 Interesado en **inteligencia artificial**, **desarrollo de videojuegos** y **web apps**
-- 🧩 Me gusta resolver problemas con lógica y un toque de estilo
-- 🎧 Música + código = 💡 inspiración
+-  Actualmente aprendiendo **Python, Django y Unity**
+-  Interesado en **inteligencia artificial**, **desarrollo de videojuegos** y **web apps**
+-  Me gusta resolver problemas con lógica y un toque de estilo
+-  Música + código = 💡 inspiración
 
 ---
 
-### 🚀 Proyectos destacados
+###  Proyectos destacados
 
-| 🌟 Proyecto | 💬 Descripción | 🔗 Repositorio |
+|  Proyecto |  Descripción | 🔗 Repositorio |
 |-------------|----------------|----------------|
-| 🌐 **Noticias Django** | Plataforma simple para publicar noticias universitarias | [Ver en GitHub](https://github.com/Gal4h4d/Pagina_web) |
-| 🤖 **Miku** | Asistente virtual 2D con voz y emociones — proyecto personal 💙 | [Ver en GitHub](https://github.com/Gal4h4d/Miku-IA) |
+|  **Noticias Django** | Plataforma simple para publicar noticias universitarias | [Ver en GitHub](https://github.com/Gal4h4d/Pagina_web) |
+|  **Miku** | Asistente virtual 2D con voz y emociones — proyecto personal 💙 | [Ver en GitHub](https://github.com/Gal4h4d/Miku-IA) |
 
 ---
 
-### 🛠️ Tecnologías que uso
+###  Tecnologías que uso
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,html,css,js,django,unity,github,linux" />
@@ -33,7 +33,7 @@
 
 ---
 
-### 🌈 Estadísticas
+###  Estadísticas
 
 <p align="center">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Gal4h4d&show_icons=true&theme=tokyonight&hide_border=true" />
@@ -42,7 +42,7 @@
 
 ---
 
-### 📬 Contacto
+###  Contacto
 
 <p align="center">
   💌 <a href="mailto:juanditamp@gmail.com">tucorreo@gmail.com</a>  

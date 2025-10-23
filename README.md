@@ -22,8 +22,8 @@
 |-------------|----------------|----------------|
 |  **Noticias Django** | Plataforma simple para publicar noticias universitarias | [Ver en GitHub](https://github.com/Gal4h4d/Pagina_web) |
 |  **Miku** | Asistente virtual 2D con voz y emociones — proyecto personal 💙 | [Ver en GitHub](https://github.com/Gal4h4d/Miku-IA) |
-
----
+|  **Matemagicas** | Juego en unity interactivo para aprender matematicas basicas de manera divertida en RPG |  [Ver en GitHub](https://github.com/Gal4h4d/Matemagicas) |
+--- 
 
 ###  Tecnologías que uso
 

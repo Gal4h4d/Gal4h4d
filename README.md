@@ -1,16 +1,14 @@
-## Hi there 👋
+# ¡Hola!  Soy Juan David Miranda
 
-<!--
-**Gal4h4d/Gal4h4d** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Estudiante de Ingeniería de Sistemas  
+Me gusta el desarrollo web, los juegos en Unity y la IA  
+Actualmente aprendiendo: Django, Python y Ciberseguridad  
 
-Here are some ideas to get you started:
+## 🔧 Mis proyectos
+- [Web de noticias en Django](https://github.com/Gal4h4d/Pagina_web)
+-
+- [Asistente virtual Kiora](https://github.com/Gal4h4d/Miku-IA)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌱 Contacto
+📧 [miemail@gmail.com](juanditamp@gmail.com)  
+💼 [LinkedIn](www.linkedin.com/in/juan-david-miranda-pelaez-09943a286/?skipRedirect=true)

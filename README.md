@@ -2,7 +2,7 @@
 <h1 align="center">Hola, soy <span style="color:#58a6ff">Gal4h4d</span> </h1>
 
 <p align="center">
- Desarrollador en formación |  Apasionado por los juegos y la IA |  Explorando el código y la creatividad
+ Desarrollador en formación 
 </p>
 
 ---

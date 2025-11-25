@@ -12,7 +12,7 @@
 -  Actualmente aprendiendo **Python, Django y Unity**
 -  Interesado en **inteligencia artificial**, **desarrollo de videojuegos** y **web apps**
 -  Me gusta resolver problemas con lógica y un toque de estilo
--  Música + código = 💡 inspiración
+
 
 ---
 

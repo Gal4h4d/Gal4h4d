@@ -1,9 +1,4 @@
 
-
-<p align="center">
- Desarrollador en formación 
-</p>
-
 ---
 
 ###  Sobre mí

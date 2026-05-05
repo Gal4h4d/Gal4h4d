@@ -3,9 +3,8 @@
 
 ###  Sobre mí
 
--  Actualmente aprendiendo **Python, Django y Unity**
 -  Interesado en **inteligencia artificial**, **desarrollo de videojuegos** y **web apps**
--  Me gusta resolver problemas con lógica y un toque de estilo
+
 
 
 ---
@@ -15,7 +14,7 @@
 |  Proyecto |  Descripción | 🔗 Repositorio |
 |-------------|----------------|----------------|
 |  **Noticias Django** | Plataforma simple para publicar noticias universitarias | [Ver en GitHub](https://github.com/Gal4h4d/Pagina_web) |
-|  **Miku** | Asistente virtual 2D con voz y emociones — proyecto personal 💙 | [Ver en GitHub](https://github.com/Gal4h4d/Miku-IA) |
+|  **Miku** | Asistente virtual 2D con voz y emociones — proyecto personal  | [Ver en GitHub](https://github.com/Gal4h4d/Miku-IA) |
 |  **Matemagicas** | Juego en unity interactivo para aprender matematicas basicas de manera divertida en RPG |  [Ver en GitHub](https://github.com/Gal4h4d/Matemagicas) |
 --- 
 

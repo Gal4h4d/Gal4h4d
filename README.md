@@ -29,7 +29,7 @@
 
 <p align="center">
   <a href="mailto:juanditamp@gmail.com">juanditamp@gmail.com</a>  
-  <a href="https://gal4h4d.github.io">gal4h4d.github.io</a>  
+  <a href="[https://gal4h4d.github.io](https://gal4h4d.github.io/)">gal4h4d.github.io</a>  
   <a href="https://www.linkedin.com/in/juan-david-miranda-pelaez-09943a286">LinkedIn</a>
 </p>
 

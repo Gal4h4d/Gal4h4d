@@ -14,7 +14,7 @@
 |  Proyecto |  Descripción | 🔗 Repositorio |
 |-------------|----------------|----------------|
 |  **Noticias Django** | Plataforma simple para publicar noticias universitarias | [Ver en GitHub](https://github.com/Gal4h4d/Pagina_web) |
-|  **Kiora** | Asistente virtual 2D con voz y emociones — proyecto personal  | [Ver en GitHub](https://github.com/Gal4h4d/Kiora-AI-Assistant) (En mejora) | 
+|  **Kiora** | Asistente virtual 2D con voz y emociones — proyecto personal  | [Ver en GitHub](https://github.com/Gal4h4d/Kiora-AI-Assistant) | 
 |  **Matemagicas** | Juego en unity interactivo para aprender matematicas basicas de manera divertida en RPG |  [Ver en GitHub](https://github.com/Gal4h4d/Matemagicas) |
 --- 
 

@@ -44,6 +44,15 @@
 
 ---
 
+## Proyectos en Colaboración
+
+| Proyecto | Descripción | Rol | Enlace |
+|----------|-------------|-----|--------|
+| **ProyectoFinal-ClasificadorDeImagenesDesdeCero** | Clasificador de imágenes desde cero - Proyecto colaborativo | Colaborador | [Ver](https://github.com/Datians/ProyectoFinal-ClasificadorDeImagenesDesdeCero) |
+| **bienestar_app** | Aplicación de bienestar - Proyecto colaborativo | Colaborador | [Ver](https://github.com/mrln137/bienestar_app) |
+
+---
+
 ## Estructura de Repositorios
 
 ### Por Categoría:
@@ -53,10 +62,12 @@
 
 **Inteligencia Artificial**
 - Kiora-AI-Assistant (Assistant AI con voz)
+- ProyectoFinal-ClasificadorDeImagenesDesdeCero (Colaboración)
 
 **Desarrollo Web**
 - Pagina_web
 - Gal4h4d.github.io
+- bienestar_app (Colaboración)
 
 **Datos y Computación**
 - Base_de_Datos
@@ -92,10 +103,12 @@
 ## Estadísticas de Repositorios
 
 ```
-Total de repositorios: 9
+Total de repositorios propios: 9
 Proyectos personales: 6
 Workshop/Referencia: 2
 Perfil: 1
+
+Proyectos en colaboración: 2
 
 Lenguajes: JavaScript, C#, Kotlin, CUDA, Python, HTML, CSS
 ```
@@ -118,6 +131,7 @@ Lenguajes: JavaScript, C#, Kotlin, CUDA, Python, HTML, CSS
 - Explorando nuevas tecnologías en IA y computación distribuida
 - Mejorando experiencias de usuario en videojuegos
 - Trabajando en nuevas ideas y prototipos
+- Colaborando en proyectos de IA y aplicaciones web
 
 ---
 

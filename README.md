@@ -1,41 +1,126 @@
+# Hola, soy Gal4h4d
 
 ---
 
-###  Sobre mí
+## Sobre mí
 
--  Interesado en **inteligencia artificial**, **desarrollo de videojuegos** y **web apps**
-
-
+- Interesado en **inteligencia artificial** y procesamiento de datos
+- Apasionado por el **desarrollo de videojuegos**
+- Desarrollador de **aplicaciones web modernas**
+- Estudiante de ciencias de la computación
+- Entusiasta de **tecnologías emergentes**
 
 ---
 
-###  Proyectos destacados
+## Mis Repositorios
 
-|  Proyecto |  Descripción | 🔗 Repositorio |
-|-------------|----------------|----------------|
-|  **Noticias Django** | Plataforma simple para publicar noticias universitarias | [Ver en GitHub](https://github.com/Gal4h4d/Pagina_web) |
-|  **Kiora** | Asistente virtual 2D con voz y emociones — proyecto personal  | [Ver en GitHub](https://github.com/Gal4h4d/Kiora-AI-Assistant) | 
-|  **Matemagicas** | Juego en unity interactivo para aprender matematicas basicas de manera divertida en RPG |  [Ver en GitHub](https://github.com/Gal4h4d/Matemagicas) |
---- 
+### Proyectos Destacados
 
-###  Tecnologías que uso
+| Proyecto | Descripción | Lenguaje |
+|----------|-------------|----------|
+| **Kiora-AI-Assistant** | Asistente virtual 2D interactivo con voz y emociones - Proyecto personal | JavaScript |
+| **Matemagicas** | Juego interactivo en Unity para aprender matemáticas básicas de manera divertida en formato RPG | C# |
+| **Pagina_web** | Plataforma web sencilla para publicar noticias universitarias | CSS/HTML/JS |
+
+---
+
+### Proyectos de Aprendizaje y Experimentación
+
+| Proyecto | Descripción | Lenguaje | Estado |
+|----------|-------------|----------|--------|
+| **Base_de_Datos** | Proyecto de bases de datos - Exploración y prácticas | JavaScript | Activo |
+| **Rutea** | Aplicación móvil/ruteo - En desarrollo | Kotlin | Activo |
+| **computacion-paralela-distribuida** | Workshop y prácticas de computación paralela y distribuida | CUDA | Completado |
+| **spark-glue-workshop** | Workshop sobre Apache Spark y AWS Glue | Varios | Referencia |
+
+---
+
+### Otros Proyectos
+
+| Proyecto | Descripción | Tipo |
+|----------|-------------|------|
+| **Gal4h4d** | Repositorio de perfil (este) | Perfil |
+| **Gal4h4d.github.io** | Sitio web personal - Portfolio y GitHub Pages | Web |
+
+---
+
+## Estructura de Repositorios
+
+### Por Categoría:
+
+**Desarrollo de Juegos**
+- Matemagicas (Unity, C#)
+
+**Inteligencia Artificial**
+- Kiora-AI-Assistant (Assistant AI con voz)
+
+**Desarrollo Web**
+- Pagina_web
+- Gal4h4d.github.io
+
+**Datos y Computación**
+- Base_de_Datos
+- computacion-paralela-distribuida
+- spark-glue-workshop
+
+**Desarrollo Móvil**
+- Rutea (Kotlin)
+
+---
+
+## Tecnologías que Uso
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,html,css,js,django,unity,github,linux" />
+  <img src="https://skillicons.dev/icons?i=python,javascript,csharp,kotlin,html,css,django,unity,cuda,github,linux,git" alt="Tech Stack" />
 </p>
 
+### Lenguajes principales:
+- **Python** - Análisis de datos, IA
+- **JavaScript** - Desarrollo web y aplicaciones interactivas
+- **C#** - Desarrollo en Unity
+- **Kotlin** - Desarrollo móvil
+- **CUDA** - Computación paralela
 
-###  Contacto
+### Frameworks y Herramientas:
+- **Unity** - Desarrollo de videojuegos
+- **Django** - Backend web
+- **Git/GitHub** - Control de versiones
+- **AWS** - Cloud computing
+
+---
+
+## Estadísticas de Repositorios
+
+```
+Total de repositorios: 9
+Proyectos personales: 6
+Workshop/Referencia: 2
+Perfil: 1
+
+Lenguajes: JavaScript, C#, Kotlin, CUDA, Python, HTML, CSS
+```
+
+---
+
+## Contacto
 
 <p align="center">
-  <a href="mailto:juanditamp@gmail.com">juanditamp@gmail.com</a>  
-  <a href="https://gal4h4d.github.io/">gal4h4d.github.io</a>  
-  <a href="https://www.linkedin.com/in/juan-david-miranda-pelaez-09943a286">LinkedIn</a>
+  Email: juanditamp@gmail.com |
+  Portfolio: https://gal4h4d.github.io/ |
+  LinkedIn: https://www.linkedin.com/in/juan-david-miranda-pelaez-09943a286
 </p>
+
+---
+
+## Actividad Reciente
+
+- Manteniendo y actualizando proyectos existentes
+- Explorando nuevas tecnologías en IA y computación distribuida
+- Mejorando experiencias de usuario en videojuegos
+- Trabajando en nuevas ideas y prototipos
 
 ---
 
 <p align="center">
   <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake-dark.svg" alt="snake" />
 </p>
-

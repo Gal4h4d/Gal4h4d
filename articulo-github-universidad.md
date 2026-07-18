@@ -69,13 +69,13 @@ Un profesor ve: "Mi contenido está documentado y accesible por siempre."
 
 Porque GitHub no es solo almacenamiento. Es:
 
-✅ **Colaboración en tiempo real** - Múltiples personas en el mismo código sin conflictos  
-✅ **Historial completo** - Ves qué cambió, cuándo, quién y por qué  
-✅ **Control de versiones** - Nunca pierdes versiones anteriores  
-✅ **Portfolio visible** - Los estudiantes tienen presencia en línea  
-✅ **Buenas prácticas** - Los estudiantes aprenden Git desde el día 1  
-✅ **Escalable** - Crece con la universidad  
-✅ **Sostenible** - GitHub Education es GRATIS para universidades  
+**Colaboración en tiempo real** - Múltiples personas en el mismo código sin conflictos  
+**Historial completo** - Ves qué cambió, cuándo, quién y por qué  
+**Control de versiones** - Nunca pierdes versiones anteriores  
+**Portfolio visible** - Los estudiantes tienen presencia en línea  
+**Buenas prácticas** - Los estudiantes aprenden Git desde el día 1  
+**Escalable** - Crece con la universidad  
+**Sostenible** - GitHub Education es GRATIS para universidades  
 
 Plus: cuando los estudiantes se gradúen, llevarán esto en su CV. Empleadores lo ven.
 
@@ -256,8 +256,5 @@ Los proyectos universitarios no deberían desaparecer. El código no debería es
 
 GitHub es la herramienta. La visión es crear una comunidad de código real en tu universidad.
 
-¿Tu uni está lista para esto? 🚀
-
 ---
 
-**¿Te late así o le cambio algo?**

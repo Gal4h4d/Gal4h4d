@@ -7,7 +7,7 @@
 - Interesado en **inteligencia artificial** y procesamiento de datos
 - Apasionado por el **desarrollo de videojuegos**
 - Desarrollador de **aplicaciones web modernas**
-- Estudiante de ciencias de la computación
+- Estudiante de ingeniería de sistemas 
 - Entusiasta de **tecnologías emergentes**
 
 ---
